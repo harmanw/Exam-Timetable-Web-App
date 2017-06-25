@@ -9,5 +9,4 @@ A basic exam timetable viewer.
 
 <i>*** Config.php needs to be updated with the User's login details.</i>
 
-
-
+![Demo](https://github.com/harmanw/Exam-Timetable-Web-App/blob/master/demo.gif)
