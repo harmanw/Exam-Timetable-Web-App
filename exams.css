@@ -1,0 +1,53 @@
+
+body {
+	background-color: #192853;
+	font-family: "Verdana", Times, serif;
+	font-size: 1em;
+	color: black;
+	text-align: center;
+}
+
+header {
+	color: navy;
+}
+
+
+#myTable{
+	border-collapse: collapse;
+	border: 3px solid black;
+	width: 100%;
+}
+
+tr:nth-child(even) {
+	background-color: #B0E2FF;
+}
+
+th {
+	background-color: #D2D2D2;
+	border:3px solid black;
+	padding: 7px;
+}
+
+td {
+	padding: .5em;
+	border:3px solid black;
+}
+
+#form1 {
+	max-width: 80%;
+	margin: auto;
+}
+#form1 fieldset a {
+	font-variant: small-caps;
+	line-height: 100%;
+	position: relative;
+	right: 10px;
+}
+
+#frame {
+	margin: auto;
+	border: 15px solid black;
+	padding: 1% 5% 3%;
+	width: 80%;
+	background-color: white;
+}
